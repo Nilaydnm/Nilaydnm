@@ -55,5 +55,5 @@ Layered Architecture, Clean Architecture, Dependency Injection, LINQ , SOLID
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/nilaydnmz
+LinkedIn: [/Nilaydnmz](www.linkedin.com/in/nilay-dönmez-459539225)
 Email: [nilay.donmez399@gmail.com](mailto:nilay.donmez399@gmail.com)
